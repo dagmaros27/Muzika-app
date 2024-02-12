@@ -1,0 +1,76 @@
+{
+  "musics": [
+    {
+      "id": 1,
+      "musicTitle": "Song Title 1",
+      "artistName": "Artist Name 1",
+      "albumTitle": "Album Title 1",
+      "albumPicture": "https://picsum.photos/200/300",
+      "listenedNumber": 10000
+    },
+    {
+      "id": 2,
+      "musicTitle": "Song Title 2",
+      "artistName": "Artist Name 2",
+      "albumTitle": "Album Title 2",
+      "albumPicture": "https://picsum.photos/200/300",
+      "listenedNumber": 8500
+    },
+    {
+      "id": 3,
+      "musicTitle": "Song Title 3",
+      "artistName": "Artist Name 3",
+      "albumTitle": "Album Title 3",
+      "albumPicture": "https://picsum.photos/200/300",
+      "listenedNumber": 12000
+    },
+    {
+      "id": 4,
+      "musicTitle": "Song Title 4",
+      "artistName": "Artist Name 4",
+      "albumTitle": "Album Title 4",
+      "albumPicture": "https://picsum.photos/200/300",
+      "listenedNumber": 5500
+    },
+    {
+      "id": 5,
+      "musicTitle": "Song Title 5",
+      "artistName": "Artist Name 5",
+      "albumTitle": "Album Title 5",
+      "albumPicture": "https://picsum.photos/200/300",
+      "listenedNumber": 9500
+    },
+    {
+      "id": 6,
+      "musicTitle": "Song Title 6",
+      "artistName": "Artist Name 6",
+      "albumTitle": "Album Title 6",
+      "albumPicture": "https://picsum.photos/200/300",
+      "listenedNumber": 6700
+    },
+    {
+      "id": 7,
+      "musicTitle": "Song Title 7",
+      "artistName": "Artist Name 7",
+      "albumTitle": "Album Title 7",
+      "albumPicture": "https://picsum.photos/200/300",
+      "listenedNumber": 8000
+    },
+    {
+      "id": 8,
+      "musicTitle": "Song Title 8",
+      "artistName": "Artist Name 8",
+      "albumTitle": "Album Title 8",
+      "albumPicture": "https://picsum.photos/200/300",
+      "listenedNumber": 11000
+    },
+    {
+      "id": 9,
+      "musicTitle": "Amen",
+      "artistName": "Rophnan",
+      "albumName": "Zetegn",
+      "albumCover": "https://picsum.photos/200/300",
+      "listenedNumber": 0
+    }
+  ]
+}

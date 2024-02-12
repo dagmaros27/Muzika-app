@@ -1,0 +1,10 @@
+/* For WebKit-based browsers (Chrome) */
+::-webkit-scrollbar {
+  width: 12px; /* Set the width of the scrollbar */
+}
+
+/* For the scrollbar thumb (the draggable part) */
+::-webkit-scrollbar-thumb {
+  background-color: black; /* Set the color of the scrollbar thumb */
+  border-radius: 6px; /* Round the edges of the scrollbar thumb */
+}
